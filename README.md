@@ -2,6 +2,7 @@
 
 Original Repo: https://github.com/wly8smith/mass-spring-cloth-simulation-rainbow
 
+#### Computer Graphics
 FINAL PROJECT
 CS 180 | Winter 2020
 
